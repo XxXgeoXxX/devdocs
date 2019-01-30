@@ -1,6 +1,8 @@
 ---
 group: configuration-guide
 title: Logging
+redirect_from: /guides/v2.3/logging.html
+
 functional_areas:
   - Configuration
   - System
